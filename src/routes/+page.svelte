@@ -143,7 +143,7 @@
 </script>
 
 <main class="container">
-	<h1>Вычислительная математика 2 Зенченков P3215</h1>
+	<h1>Вычислительная математика 3 Зенченков P3215</h1>
 
 	<div class="layout">
 		<div class="controls">
